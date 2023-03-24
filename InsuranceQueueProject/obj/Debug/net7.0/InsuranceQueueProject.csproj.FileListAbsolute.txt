@@ -1,0 +1,15 @@
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\InsuranceQueueProject.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\InsuranceQueueProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\InsuranceQueueProject.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\InsuranceQueueProject.AssemblyInfo.cs
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\InsuranceQueueProject.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\bin\Debug\net7.0\InsuranceQueueProject.exe
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\bin\Debug\net7.0\InsuranceQueueProject.deps.json
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\bin\Debug\net7.0\InsuranceQueueProject.runtimeconfig.json
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\bin\Debug\net7.0\InsuranceQueueProject.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\bin\Debug\net7.0\InsuranceQueueProject.pdb
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\InsuranceQueueProject.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\refint\InsuranceQueueProject.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\InsuranceQueueProject.pdb
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\InsuranceQueueProject.genruntimeconfig.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\dotnetProjects\InsuranceQueueProject\obj\Debug\net7.0\ref\InsuranceQueueProject.dll
